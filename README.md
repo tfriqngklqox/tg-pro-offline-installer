@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Fan+Control-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-System+Monitor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 TG Pro Free Installer** — TG Pro is a macOS temperature monitoring and fan control application that provides detailed thermal data and manual fan speed control for Mac computers. Works without internet access, no account required. Full offline installation.
+**💻 TG Pro Free Installer** — TG Pro is a macOS menu bar application providing detailed Mac temperature monitoring, fan control, and hardware diagnostics. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About TG Pro
 
-TG Pro is a macOS temperature monitoring and fan control application that provides detailed thermal data and manual fan speed control for Mac computers. Monitor dozens of temperature sensors, fan speeds, and power draw with a beautiful native interface. TG Pro's ability to run automated fan speed control curves based on multiple sensors makes it the most sophisticated Mac thermal management tool available.
+TG Pro is a macOS menu bar application providing detailed Mac temperature monitoring, fan control, and hardware diagnostics. It supports all Mac models including Apple Silicon and provides visual temperature graphs and alerts for thermal issues.
 
 ---
 
 ## ❌ Problem: TG Pro is hard to access
 
-- **macOS Only** — Designed exclusively for Mac hardware
-- **Commercial License** — Paid application
-- **Apple Silicon Changes** — M-chip Macs have different thermal management capabilities
-- **Risk of Misuse** — Incorrect fan curve configuration can lead to inadequate cooling
+- **macOS Only** — No Windows or Linux version
+- **Paid App** — Requires purchase from the Mac App Store
+- **Apple Silicon Limits** — Apple restricts direct fan control on M-series Macs
+- **Background Resource** — Continuous sensor polling uses a small but constant amount of CPU
 
 ---
 
@@ -121,7 +121,7 @@ TG Pro is a macOS temperature monitoring and fan control application that provid
 
 ---
 
-**TG Pro Free Installer** — TG Pro is a macOS temperature monitoring and fan control application that provides detailed thermal data and manual fan speed control for Mac computers. Install without internet connection today!
+**TG Pro Free Installer** — TG Pro is a macOS menu bar application providing detailed Mac temperature monitoring, fan control, and hardware diagnostics. Install without internet connection today!
 
 <div align="center">
 
